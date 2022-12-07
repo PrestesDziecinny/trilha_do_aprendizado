@@ -1,0 +1,46 @@
+body{
+ font-family: Arial, Helvetica, sans-serif;
+
+ border-style:solid;
+    border-width: 1px;
+    border-color: grey;
+    margin-top: 30px; 
+    margin-right: 50px; 
+    margin-bottom: 30px; 
+    margin-left: 60px; 
+    padding: 20px;
+}
+
+#p1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: indianred;
+    background-color: lime;
+    border-style: dashed;
+    border-width: 2px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+
+#div{
+    height: 100px;
+    width: 500px;
+    margin-top: 20px; 
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+    margin-left: 20px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:orangered;
+    background-color: rgb(123, 45, 160);
+    border-style: dashed;
+    border-width: 2px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+
+}
+
+
+

@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+#margem_sup{
+    background-color: #004042 ; 
+    height: 9px;
+    width: 1368px;
+    position: relative;
+    bottom: 8px;
+    right: 10px;
+}
+#logo{
+    position: relative;
+    left: 70px;
+    bottom: 6px;
+}
+#outros_sites{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 1113px;
+    top: 41px;
+}
+.geral{
+    margin-left:79px;
+    margin-right: 79px;
+}
+.margem{
+    border-bottom: 1px solid black;
+}
+#direitos{
+    text-align: center;
+}

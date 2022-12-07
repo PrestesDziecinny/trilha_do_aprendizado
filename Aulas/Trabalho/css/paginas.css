@@ -1,0 +1,149 @@
+
+/* css para as paginas turismo, hoteis e restaurantes */
+
+
+* { 
+	margin: 0;        /* Zerando a margem e a margem interna (padding) de todos os elementos */
+	padding: 0;       /* Para o comportamento seja o mesmo em qualquer navegador*/
+	
+}
+
+body{
+	background:linear-gradient(to right,#0b1726, #1f3f66);
+	height:100%;
+}
+
+.header table{
+	margin-top: -10px;
+	width: 100%;
+	height: 150px;
+	padding: -10%;
+}
+
+.header img{
+	width: 100%;
+	height: 150px;
+}
+
+.menu table{
+	width: 75%;
+	margin-top: 0px;
+	margin-left: 150px;
+	background:transparent;
+	text-align: center;
+}
+
+.menu table a{
+	text-decoration:none;
+	color: gainsboro;
+	font-size: 35px;
+	font-family: Brush Script MT;
+
+}
+
+.menu a:hover{
+    color: #d0f30b;
+}
+
+.main {
+	background-color: gainsboro;
+	margin-top: 4px;
+	margin-left: 150px;
+	width: 75%;
+	text-align: center;
+	box-shadow: 10px 10px 10px rgb(81, 81, 248);
+	padding-bottom: 30px;
+	
+}
+
+.main img{
+	height: 250px;
+	width: 40%;
+}
+
+
+.main h1{
+	margin-top: 0px;
+	margin-left: 30px;
+	color:#1C1C1C;
+	font-family: Goudy Old Style;
+}
+
+.main p{
+	margin-top: 25px;
+	margin-left: 30px;
+	width: 95%;
+	color:#1C1C1C;
+	font-size: 23px;
+	font-family: Goudy Old Style;
+}
+
+.main b{
+	font-size: 18px;
+}
+
+.footer {
+	background-color: rgb(0, 0, 36);
+	color: white;
+	text-align: center;
+	border-top: 1px solid #333;
+	border-bottom: 5px solid rgb(0, 0, 36);
+	width: 100%;
+}
+
+
+.main table {
+	width: 100%;
+	height: 150px;
+	border: 0px solid #1f3f66; 
+}
+
+.main img{
+	width: 100%;
+	height: 200px;
+}
+
+.tables{
+	font-family: Goudy Old Style;
+}
+
+.tables table{
+	margin-left: 10%;
+	width: 80%;
+	background-color: #1f3f66; 
+}
+
+.santa img{
+	width:50%;
+
+}
+
+.main spam{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 18px;
+}
+
+.tables table td{
+	margin-left: 10%;
+	width: 50%;
+	font-size: 20px;
+	color:aliceblue
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+div{
+    background-color: tan;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: rebeccapurple;
+}
+
+
+
+.b1{
+    background-color: slategrey;
+    color: navy;  
+    margin: 30px;
+    padding: 20px;
+    border: 5px solid green;
+    width: 60px;
+    height: 15px;
+
+}
+
+.b2{
+    background-color: slategrey;
+    color: navy;
+    margin: 30px;
+    padding: 20px;
+    border: 5px solid green;
+    width: 60px;
+    height: 15px;
+}
+
+
+
+.agrupamento{
+
+    background-color: palevioletred;
+    color: navy ;
+    border: 5px solid mediumvioletred;
+    margin: 20px;
+    padding: 15px;
+}
+
+
+#unico{
+    background-color: navajowhite;
+    color: navy ;
+    border: 5px solid yellow;
+    margin: 20px;
+    padding: 15px;
+}
+
+.personalizado{
+    background-color: tan;
+    color: navy;
+    border: 5px solid lightsalmon;
+    padding: 10px;
+}
+.pseudo{
+    color: navy;
+    background-color: royalblue;
+}
+
+.pseudo:hover{
+    background-color: orangered;
+    border: 5px solid purple;
+}
+
+.pseudo::selection{
+    color: red;
+    background-color: yellowgreen;
+}

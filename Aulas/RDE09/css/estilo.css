@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(212, 230, 212);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, h2, h3{
+ background-color: darkkhaki;
+ color: darkred;
+}

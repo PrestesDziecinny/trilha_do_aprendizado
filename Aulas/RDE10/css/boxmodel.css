@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /*margin: 100px; aplica 100px aos 4 lados*/
+
+    border-style:solid;
+    border-width: 40px;
+    border-top-color:deeppink;
+    border-right-color: firebrick;
+    border-bottom-color: green;
+    border-left-color:dodgerblue ;
+
+    /*border:lpx solid darkred;*/
+
+    padding: 20px;
+
+    /*margin-top: 100px; aplica ao topo do site
+    margin-right: 60px; aplica ao lado direito do site
+    margin-bottom: 120px; aplica abaixo do site
+    margin-left: 50px; aplica ao lado esquedo do site*/
+
+    margin: 100px 80px; /* aplica 100px acima e abaixo e 80px na direita e na esqueda do site*/
+}
+h1{
+    background-color: gold
+}
